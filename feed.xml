@@ -1,21 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Your awesome title</title>
+    <title>Lars Wegas | Mobile Photographer</title>
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</description>
-    <link>http://yourdomain.com/</link>
-    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 06 Jul 2014 13:00:08 +0200</pubDate>
-    <lastBuildDate>Sun, 06 Jul 2014 13:00:08 +0200</lastBuildDate>
+    <link>http://larswegas.net/</link>
+    <atom:link href="http://larswegas.net/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Wed, 09 Jul 2014 07:58:36 +0200</pubDate>
+    <lastBuildDate>Wed, 09 Jul 2014 07:58:36 +0200</lastBuildDate>
     <generator>Jekyll v2.1.0</generator>
+    
+      <item>
+        <title>photoshoot with thekla</title>
+        <description>&lt;p&gt;During the great &lt;a href=&quot;/ontheroad/race61&quot;&gt;Race 61 event&lt;/a&gt; in Finowfurt i had the opportunity to shoot some photos of Thekla.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/ontheroad/photoshoot-with-thekla/IMG_7464.JPG&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/img/ontheroad/photoshoot-with-thekla/IMG_7471.JPG&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/img/ontheroad/photoshoot-with-thekla/IMG_7482.JPG&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/img/ontheroad/photoshoot-with-thekla/IMG_7498.JPG&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/img/ontheroad/photoshoot-with-thekla/IMG_7508.JPG&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/img/ontheroad/photoshoot-with-thekla/IMG_7545.JPG&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 06 Jul 2014 00:00:00 +0200</pubDate>
+        <link>http://larswegas.net/ontheroad/photoshoot-with-thekla</link>
+        <guid isPermaLink="true">http://larswegas.net/ontheroad/photoshoot-with-thekla</guid>
+        
+        
+        <category>ontheroad</category>
+        
+      </item>
+    
+      <item>
+        <title>Race 61</title>
+        <description>&lt;p&gt;Photos from Race 61 in Finowfurt. During this great event, i had the opportunity to &lt;a href=&quot;/ontheroad/photoshoot-with-thekla&quot;&gt;shoot some photos&lt;/a&gt; of Thekla.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/ontheroad/race61/IMG_7461.JPG&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/img/ontheroad/race61/IMG_7476.JPG&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/img/ontheroad/race61/IMG_7488.JPG&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/img/ontheroad/race61/IMG_7494.JPG&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/img/ontheroad/race61/IMG_7512.JPG&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/img/ontheroad/race61/IMG_7515.JPG&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 06 Jul 2014 00:00:00 +0200</pubDate>
+        <link>http://larswegas.net/ontheroad/race61</link>
+        <guid isPermaLink="true">http://larswegas.net/ontheroad/race61</guid>
+        
+        
+        <category>ontheroad</category>
+        
+      </item>
     
       <item>
         <title>street1</title>
         <description>&lt;p&gt;test portfolio street&lt;/p&gt;
 </description>
         <pubDate>Sat, 05 Jul 2014 00:00:00 +0200</pubDate>
-        <link>http://yourdomain.com/portfolio/streetphotography/street1</link>
-        <guid isPermaLink="true">http://yourdomain.com/portfolio/streetphotography/street1</guid>
+        <link>http://larswegas.net/portfolio/streetphotography/street1</link>
+        <guid isPermaLink="true">http://larswegas.net/portfolio/streetphotography/street1</guid>
         
         <category>street</category>
         
@@ -29,8 +69,8 @@
         <description>&lt;p&gt;test portfolio portrait&lt;/p&gt;
 </description>
         <pubDate>Sat, 05 Jul 2014 00:00:00 +0200</pubDate>
-        <link>http://yourdomain.com/portfolio/portrait/portrait1</link>
-        <guid isPermaLink="true">http://yourdomain.com/portfolio/portrait/portrait1</guid>
+        <link>http://larswegas.net/portfolio/portrait/portrait1</link>
+        <guid isPermaLink="true">http://larswegas.net/portfolio/portrait/portrait1</guid>
         
         <category>portrait</category>
         
@@ -44,8 +84,8 @@
         <description>&lt;p&gt;test portfolio architecture&lt;/p&gt;
 </description>
         <pubDate>Sat, 05 Jul 2014 00:00:00 +0200</pubDate>
-        <link>http://yourdomain.com/portfolio/architecture/architecture1</link>
-        <guid isPermaLink="true">http://yourdomain.com/portfolio/architecture/architecture1</guid>
+        <link>http://larswegas.net/portfolio/architecture/architecture1</link>
+        <guid isPermaLink="true">http://larswegas.net/portfolio/architecture/architecture1</guid>
         
         <category>architecture</category>
         

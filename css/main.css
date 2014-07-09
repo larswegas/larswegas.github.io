@@ -6,15 +6,24 @@
   padding: 0;
 }
 
-html, body { height: 100%; }
+html, body { height: 100%; 
+font-family: 'Source Sans Pro', sans-serif;
+}
 
 body {
+ /*
   font-family: Helvetica, Arial, sans-serif;
+  */
   font-size: 16px;
   line-height: 1.5;
   font-weight: 300;
-  background-color: #fdfdfd;
+  height: 100%;
+  background-image: url(../assets/img/background/IMG_9219.JPG);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  
 }
+
 
 h1, h2, h3, h4, h5, h6 { font-size: 100%; font-weight: 400; }
 
@@ -34,6 +43,10 @@ a:visited { color: #205caa; }
   zoom: 1;
 }
 
+img {
+  max-width: 100%;
+  min-width: 325px;
+}
 
 /* Layout Styles */
 /* ----------------------------------------------------------*/
